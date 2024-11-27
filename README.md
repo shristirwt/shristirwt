@@ -20,7 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## GSSOC-Ext(24) Badges 🪶
+<details>
+  <summary><b>GSSOC-Ext(24) Badges 🪶 </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/contributorAnalytics">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -31,14 +32,19 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   </a>
 </div>
+</details>
 
 ## Hacktoberfest(2024) Badges
 [![An image of @shristirwt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shristirwt)](https://holopin.io/@shristirwt)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/shristirawat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shristirawat" /></a></p><br><br>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@shristirawat/30-nites-of-code)  
+  ![@shristirawat #30NitesOfCode](https://www.codedex.io/api/petStatus?user=shristirawat)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shristirwt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shristirwt&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shristirwt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Support 
+<p><a href="https://ko-fi.com/shristirawat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shristirawat" /></a></p><br><br>

@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **open source projects**
+## 🌟 Current Engagements
 
-- 🌱 I’m currently learning **Data Structures, Python and Mathematical foundation for Artificial Intelligence**
+- 🚀 **Open Source Contributor**: Actively contributing to open source projects through **Social Winter of Code (SWOC)**.  
+- 🎯 **GeeksforGeeks 160-Day Challenge**: Currently enrolled in the **GFG160 Challenge** to enhance my problem-solving skills and coding expertise.
 
-- 📫 How to reach me **shristirawat68@gmail.com**
+Check out my progress and contributions on [GeeksforGeeks](https://www.geeksforgeeks.org/user/shristira73z/) and GitHub!
+
+## Reach to me
+- 📫 **shristirawat68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,12 +38,14 @@
 </div>
 </details>
 
-## Hacktoberfest(2024) Badges
-[![An image of @shristirwt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shristirwt)](https://holopin.io/@shristirwt)
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@shristirawat/30-nites-of-code)  
-  ![@shristirawat #30NitesOfCode](https://www.codedex.io/api/petStatus?user=shristirawat)
+<details>
+  <summary><b>Hacktoberfest(2024) Badges</b></summary><br>
+  <div>
+    <a href="https://www.holopin.io/@shristirwt">
+      <img src="https://holopin.me/shristirwt" alt="An image of @shristirwt's Holopin badges, which is a link to view their full Holopin profile">
+    </a>
+  </div>
+</details>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shristirwt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>

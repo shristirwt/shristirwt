@@ -5,13 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🌟 Current Engagements
-
-- 🚀 **Open Source Contributor**: Actively contributing to open source projects through **Social Winter of Code (SWOC)**.  
-- 🎯 **GeeksforGeeks 160-Day Challenge**: Currently enrolled in the **GFG160 Challenge** to enhance my problem-solving skills and coding expertise.
-
-Check out my progress and contributions on [GeeksforGeeks](https://www.geeksforgeeks.org/user/shristira73z/) and GitHub!
-
 ## Reach to me
 - 📫 **shristirawat68@gmail.com**
 
